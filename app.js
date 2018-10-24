@@ -1,5 +1,5 @@
 // load the http module
-var http = require('http');
+var http = require('http'); 
 
 // configure our HTTP server
 var server = http.createServer(function (request, response) {
