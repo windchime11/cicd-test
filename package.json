@@ -17,7 +17,7 @@
     "sails-mysql": "1.0.0",
     "mocha": "^2.1.0",
     "chai": "^1.10.0",
-    "moment": "^2.8.4"
+    "moment": "2.8.4"
   },
   "devDependencies": {
     "@sailshq/eslint": "^4.19.3"
