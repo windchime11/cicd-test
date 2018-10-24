@@ -9,3 +9,4 @@ RUN npm install
 COPY . .
 
 LABEL version="2018.10.10"	maintainer="John Zou <jzou77@gmail.com>"
+CMD npm start

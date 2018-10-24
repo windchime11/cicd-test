@@ -2,7 +2,7 @@
   "name": "cicd-test-app",
   "private": true,
   "version": "0.0.1",
-  "description": "ci cd test application",
+  "description": "cicd test application",
   "keywords": [],
   "dependencies": {
     "@sailshq/connect-redis": "^3.2.1",
